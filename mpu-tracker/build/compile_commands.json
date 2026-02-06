@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/cpp/mpu-tracker/build",
+  "command": "\"E:\\Program Files\\MSYS2\\mingw64\\bin\\g++.exe\" -g -std=gnu++17 -o CMakeFiles\\3d_display.dir\\main.cpp.obj -c E:\\cpp\\mpu-tracker\\main.cpp",
+  "file": "E:\\cpp\\mpu-tracker\\main.cpp",
+  "output": "CMakeFiles\\3d_display.dir\\main.cpp.obj"
+}
+]
